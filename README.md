@@ -1,1 +1,1 @@
-# 42cursus_Ft_Printf
+# 42cursus-Ft_Printf
